@@ -1,0 +1,14 @@
+{
+    "student":"Cezmi Aktepe",
+    "Version":"2",
+    "Timestamp":"2021-11-19",
+    "count":5,
+    "data": 
+    [
+        {"id":111, "courseCode":"MAP", "courseName":"Android"},
+        {"id":112, "courseCode":"JVA", "courseName":"Java"},
+        {"id":113, "courseCode":"DBA", "courseName":"Database"},
+        {"id":114, "courseCode":"WEB", "courseName":"Web Application"},
+        {"id":115, "courseCode":"IOX", "courseName":"iOs Development"}
+    ]
+}
